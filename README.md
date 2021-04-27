@@ -1,5 +1,7 @@
-## My final project for COMM313 _Computational Text Analysis for Communication Research_ (Spring 21)
+## COMM 313 Final Project: Analyzing Billie Eilish
 
-* You will edit this file to act as the main index page for your project 
+* I am really interested in artists developing over the years - this was inspired by the video series Billie Eilish did across four years. Each year a response would be added, and you can see as she become a more notable artist, her attitudes on life, the concept of celebrity, and her experience going from childhood to adulthood in the spotlight all change, either in a more positive or negative way. After watching these videos, I am curious to see how Billie's music has evolved conceptually and thematically. Thus, my research question is: How has Billie Eilish's music linguistically and thematically changed from 2016-2021?
 
-* Change the title and write an overview of your project and description of the content.
+* My corpus will be collected from the Genius API that we have created in class. I will access the data through the Client Access Token code, and the scope of my corpus will span over the course of 5 years. I will look through 26 of her most popular singles from 2016-2021. Some of these songs feature other artists, but I will disregard their portion of the song for my analysis to solely focus on Billie's development. A key dimension will be understanding Billie's age, as well as using the 4-year interview as a reference for her personal attitudes and life experiences in the year she made the specific single.
+
+* For my analysis, I plan to use word and phrase frequency analysis, concordance analysis, and sentiment analysis. My hypothesis is that Billie Eilish’s music has gotten more abstract over the course of 5 years, and she uses more symbolism in her songs compared to her distinct lyrics from earlier years.
